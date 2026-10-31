@@ -3,7 +3,7 @@
 An agentic AI that takes a mechanical design goal (e.g. *"Size a shaft for 5 kW at 1440 rpm in EN8"*),
 plans the steps, calls engineering tools, checks the results, and saves a markdown design report.
 
-**Type:** Agentic Agent (DA-III, option i)
+**Type:** Agentic Agent 
 
 ## Schema
 
